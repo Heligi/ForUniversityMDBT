@@ -27,8 +27,6 @@ public class QueryMenu {
             System.out.println("2: Общее количество покупок по фамилиям.");
             System.out.println("3: Сортировать фирмы по числу покупок.");
             System.out.println("4: Итоговый чек за каждую совершённую покупку.");
-            //System.out.println("5: .");
-            //System.out.println("6: .");
             System.out.println("9: Назад.");
 //          JJAbrams
             int j = JJAbrams();
